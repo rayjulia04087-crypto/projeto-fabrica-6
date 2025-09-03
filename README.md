@@ -1,4 +1,4 @@
-# 🧮 Função `somaImposto` — Versão Simples
+# 🧮 Função `somaImposto`
 
 Mini‑projeto em **Python** para implementar a função **`somaImposto(taxaImposto, custo)`**, que retorna o **custo** de um item **acrescido do imposto** sobre vendas.
 
@@ -13,7 +13,7 @@ Foco em **funções puras**, **porcentagem** e **formatação de saída**.
 
 ---
 
-## 📝 Enunciado (adaptado ao mundo real)
+## 📝 Enunciado
 Você foi contratado para padronizar o cálculo de preço final de produtos em uma loja.  
 Implemente uma função chamada **`somaImposto`** que receba:
 - **`taxaImposto`**: porcentagem do imposto sobre vendas (ex.: `17.5` para 17,5%)
